@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{
+
+    --words-color:#59D5E0;
+    --bg-color:#9AD0C2;
+    --border-color:#F4538A;
+    --gr:green;
+    --lb:#F1FADA;
+}
+
+
+
+body{
+    background-color: var(--bg-color);
+    font-family: sans-serif;
+}
